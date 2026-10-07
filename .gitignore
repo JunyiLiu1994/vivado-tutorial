@@ -1,0 +1,8 @@
+out/
+fpga/build/
+.bloop/
+.metals/
+.vscode/
+*.jou
+*.log
+.bsp/
